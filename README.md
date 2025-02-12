@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Latest commit date: Wed, Feb 12, 2025
+Latest commit date: Wed 2025/02/12
 
 <!--
 **iriispikka/iriispikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
